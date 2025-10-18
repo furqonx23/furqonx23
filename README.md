@@ -2,11 +2,7 @@
 
 # Hi there 👋
 
-<h3 align="center">
-  <marquee behavior="scroll" direction="left">
-    <span style="color:#9b59b6;">✨ Welcome to My GitHub ✨</span>
-  </marquee>
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=9B59B6&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Welcome+to+My+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
 
 ###
 
