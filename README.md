@@ -24,6 +24,8 @@ Hi! I'm Muhammad Ismatullah Furqon, an Informatics Engineering student at State 
 
 ###
 
+## 🎮 My GitHub Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furqonx23/furqonx23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furqonx23/furqonx23/output/pacman-contribution-graph.svg">
