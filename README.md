@@ -32,5 +32,7 @@ Hi! I'm Muhammad Ismatullah Furqon, an Informatics Engineering student at State 
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=furqonx23.furqonx23&"  />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=furqonx23.furqonx23right_color=purple">
 </div>
+
+###
